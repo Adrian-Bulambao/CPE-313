@@ -1,2 +1,4 @@
 # CPE-313
-Data Science 3 
+Repository for Advance Machine Learning and Deep Learning
+
+Contains activities done.
