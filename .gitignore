@@ -4,6 +4,9 @@
 *FastAI_ImageNet_v2
 *waste
 *songdata.csv
+*ap.txt
+*final_df_emotions(remove-bias).csv
+*winereviews-tapi.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
